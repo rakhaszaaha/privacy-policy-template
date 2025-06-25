@@ -1,37 +1,50 @@
-# Privacy Policy
-
-[["We" or "I", or Website or App name]] takes your privacy seriously. To better protect your privacy [["we" or "I"]] provide this privacy policy notice explaining the way your personal information is collected and used.
+Privacy Policy for Yalla Live Pro
 
 
-## Collection of Routine Information
+Thank you for using Yalla Live Pro. We are committed to respecting your privacy. This Privacy Policy explains how we handle your information when you use our app.
 
-This [["website" or "app"]] track basic information about their [["visitors" or "users"]]. This information includes, but is not limited to, IP addresses, [["browser" or "app"]] details, timestamps and referring pages. None of this information can personally identify specific [["visitors" or "user"]] to this [["website" or "app"]]. The information is tracked for routine administration and maintenance purposes.
+🔐 1. No Personal Data Collection
+We do not collect, store, or track any personally identifiable information (PII) from users. Yalla Live Pro is designed to work without requiring user accounts, logins, or access to sensitive data.
 
+🎥 2. How the App Works
+Yalla Live Pro functions purely as a video streaming tool. Users can enter a video or playlist URL to play content. The app does not host, upload, or distribute any media content and does not control or monitor the links entered by users.
 
-## Cookies
+🧾 3. Log Data (Non-Personal)
+In the case of technical errors, certain non-identifying information may be collected through Apple services or third-party tools (e.g., crash reports). This may include:
 
-Where necessary, this [["website" or "app"]] uses cookies to store information about a visitor’s preferences and history in order to better serve the [["visitor" or "user"]] and/or present the [["visitor" or "user"]] with customized content.
+Device type and OS version
 
+Time and date of app use
 
-## Advertisement and Other Third Parties
+App version
 
-Advertising partners and other third parties may use cookies, scripts and/or web beacons to track [["visitors" or "user"]] activities on this [["website" or "app"]] in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This [["website" or "app"]] has no access or control over these cookies, scripts and/or web beacons that may be used by third parties. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html).
+General error information
 
+This information is used solely for app improvement and troubleshooting.
 
-## Links to Third Party Websites
+🧹 4. Recent URLs
+The app stores a list of previously entered video URLs locally on your device using shared preferences. This data:
 
-[["We" or "I"]] have included links on this [["website" or "app"]] for your use and reference. [["We" or "I"]] are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from [["our" or "my"]] own.
+Is not transmitted or accessed by us
 
+Can be deleted by the user at any time
 
-## Security
+Remains only on the user’s device
 
-The security of your personal information is important to [["us" or "me"]], but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While [["we" or "I"]] strive to use commercially acceptable means to protect your personal information, [["we" or "I"]] cannot guarantee its absolute security.
+⚠️ 5. Content Responsibility
+We do not control or endorse any content played using Yalla Live Pro. You are fully responsible for the content you access through third-party URLs.
 
+You must ensure that:
 
-## Changes To This Privacy PolicyThis Privacy Policy is effective as of [[Date]] and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
-[["We" or "I"]] reserve the right to update or change [["our" or "my"]] Privacy Policy at any time and you should check this Privacy Policy periodically. If [["we" or "I"]] make any material changes to this Privacy Policy, [["we" or "I"]] will notify you either through the email address you have provided [["us" or "me"]], or by placing a prominent notice on [["our" or "my"]] [["website" or "app"]].
+You have the legal right to stream the media
 
+The content is not copyrighted, pirated, or illegal
 
-## Contact Information
+We are not liable for any misuse of the app.
 
-For any questions or concerns regarding the privacy policy, please send [["us" or "me"]] an email to [[Contact Email Address]].
+🔄 6. Policy Updates
+We may update this Privacy Policy from time to time. If changes are made, the updated policy will be made available through the app or App Store listing.
+
+📬 7. Contact
+If you have any questions about this Privacy Policy, please contact us at:
+Email: rakhaszaaha@gmail.com
